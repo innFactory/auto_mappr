@@ -1,5 +1,8 @@
 [//]: # (## Unreleased)
 
+## 2.15.0
+- Bump `analyzer` version to `>=9.0.0 <11.0.0`. [#255](https://github.com/netglade/auto_mappr/pull/255)
+
 ## 2.14.0
 - Bump `analyzer` version to `>=9.0.0 <10.0.0`. [#253](https://github.com/netglade/auto_mappr/pull/253)
 
